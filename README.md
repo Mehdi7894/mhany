@@ -1,1 +1,2 @@
-# mhany
+# Probot ✨
+Epic Discord Bot
